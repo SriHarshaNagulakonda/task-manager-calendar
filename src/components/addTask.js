@@ -78,7 +78,7 @@ function AddTask({props}) {
           })
       }
       setTask("");
-      setStatus("");
+      // setStatus("");
       setDescription("");
   }
 
